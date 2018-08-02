@@ -1,1 +1,1 @@
-![Main](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/mainEng.PNG)
+![Main](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/raw/master/mainEng.PNG)
