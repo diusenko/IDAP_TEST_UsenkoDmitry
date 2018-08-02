@@ -1,3 +1,6 @@
 ![MainEng](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/raw/master/screenshots/mainEng.PNG)
-![ChangeLocalization](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/raw/master/screenshots/restartEng.PNG)
+![ChangeLocalizationEngToUkr](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/raw/master/screenshots/restartEng.PNG)
 ![MainUkr](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/raw/master/screenshots/mainUkr.PNG)
+![ChangeLocalizationUkrToDe](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/raw/master/screenshots/restartUkr.PNG)
+![MainDe](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/raw/master/screenshots/mainDe.PNG)
+![ChangeLocalizationDeToEng](https://github.com/diusenko/IDAP_TEST_UsenkoDmitry/raw/master/screenshots/restartDe.PNG)
