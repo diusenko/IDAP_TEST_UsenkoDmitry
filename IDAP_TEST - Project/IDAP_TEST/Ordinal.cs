@@ -70,7 +70,7 @@ namespace IDAP_TEST
         {
             return ones[one];
         }
-        public static string getClass(int numberOfClass)
+        public static string getClassName(int numberOfClass)
         {
             return classes[numberOfClass];
         }
